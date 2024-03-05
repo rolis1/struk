@@ -47,5 +47,9 @@ int main() {
         cout << endl;
     }
 
+    cout << "Program ini dibuat oleh: Rolis Liu" << endl;
+    cout << "NPM: 2310631170117" << endl;
+
+
     return 0;
 }
